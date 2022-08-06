@@ -1,0 +1,116 @@
+        /* ******************---div---***************** */
+
+.tcontainer{
+    width: 100%;
+    background-color: #EAF6F6;
+
+}
+.mcontainer{
+    width: 42%;
+    padding-top: 50px;
+    padding-left: 30%;
+    
+}
+.bcontainer{
+    width: 42%;
+    padding-top: 50px;
+    padding-left: 30%;
+}
+        /* ******************-------------------------***************** */
+
+body{
+    text-align: center;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: larger;
+}
+h1{
+    padding-top: 100px;
+    margin: 0;
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 150px;
+}
+h2{
+    margin: 0;
+
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 10px;
+    
+}
+h3{
+    color: #11999e;
+}
+.pro{
+    margin: 0;
+    font-family: 'Shadows Into Light', cursive;
+    color: #66bfbf;
+    font-size: 65px;
+}
+#h{
+    font-weight: bolder;
+    text-underline-offset: auto;
+}
+.desc{
+    color: #40514E;
+    font-weight: bolder;
+}
+.hr1{
+    margin: 25px auto 10px;
+    border-width: 5px;
+    border-style: none;
+    border-top-style: dotted;
+    color: grey;
+    width: 20%;
+    padding: 10px;
+
+}
+.get-in{
+   font-weight: bolder;
+   color: #000;
+}
+.button{
+    width: 102px;
+    height: 40px;
+    border-radius: 16%;
+    background: #;
+    background: #11999e;
+    color: white;
+    border-color: white;
+}
+footer{
+    display:inline-block;
+    width: 100%;
+    height: 175px;
+    background: #66bfbf;
+}
+.ftext{
+    padding: 15px;
+    color: white;
+    background-color: #66bfbf;
+}
+
+/* ******************---images---***************** */
+.cloud1{
+    padding-top: 50px;
+    position: absolute;
+    right: 340px;
+}
+.cloud2{
+    position: absolute;
+    left: 340px;
+}
+.mountain{
+
+}
+.photo{
+    padding
+}
+.computer{
+    padding: 75px auto auto 0px;
+    border-radius: 100%;
+    width:25%;
+
+}
